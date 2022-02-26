@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verses made upon the several festivals of November and remarkable days in the Whiggish-calendar by way of remembrance to all Loyalists and caution to all Turks, infidels, Jews and other dissenters / by Merlynnius Redivivus.</title>
+            <author>Cartwright, William, 1611-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71202</idno>
+            <idno type="STC">Wing V267</idno>
+            <idno type="STC">Wing C716A</idno>
+            <idno type="STC">ESTC R12444</idno>
+            <idno type="EEBO-CITATION">12388630</idno>
+            <idno type="OCLC">ocm 12388630</idno>
+            <idno type="VID">60920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60920)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:3 or 1753:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verses made upon the several festivals of November and remarkable days in the Whiggish-calendar by way of remembrance to all Loyalists and caution to all Turks, infidels, Jews and other dissenters / by Merlynnius Redivivus.</title>
+                  <author>Cartwright, William, 1611-1643.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Merlynnius Redivivus is a pseudonym for William Cartwright. cf. NUC pre-1956.</note>
+                  <note>Publication date from colophon; place of publication from Wing.</note>
+                  <note>This item appears at reel 902:3 as Wing V259 (number cancelled in Wing 2nd ed., item moved to Wing C716A), and at reel 1753:24 questionably identified as Wing V267.</note>
+                  <note>Reproduction of originals in Huntington Library and Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+               <term>Political poetry --  Early, 1500-1700 --  Religious aspects. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:60920:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>VERSES Made upon the ſeveral FESTIVALS OF NOVEMBER, And Remarkable Days in the Whiggiſh-Calender, By Way of Remembrance to all Loyaliſts, and Caution to all Turks, Infidels, Jews, and other Diſſenters.</head>
+            <byline>By <hi>Merlynnius Redivivus.</hi>
+            </byline>
+            <l>THou Sun that ſheweſt the Days, look down and ſee</l>
+            <l>A Month more ſhining by Events than thee:</l>
+            <l>Departed <hi>Saints</hi> and <hi>Souls,</hi> Sign'd it before,<note place="margin">All Saints All Souls.</note>
+            </l>
+            <l>But now the <hi>Living</hi> Sign it more.</l>
+            <l>
+               <pb n="2" facs="tcp:60920:2"/>
+               <!-- PDF PAGE 44 -->
+Bate us that Uſhering Curſe ſo dearly known,</l>
+            <l>And then the Moneth is all our own:</l>
+            <l>So at the firſt Darkneſs was thrown about,</l>
+            <l>The unſhaven Earth and Light was thence ſtruck out.<note place="margin">The 3d day, The Aſſembly of the un<g ref="char:EOLhyphen"/>happy Parli<g ref="char:EOLhyphen"/>ament.</note>
+            </l>
+            <l>Draw the firſt Curtain, and the Scene is then,</l>
+            <l>A triple State of cull'd and truſted Men.</l>
+            <l>Men,<note place="margin">Rump.</note> in whoſe hands 'twas once to have given us more</l>
+            <l>Than our bold Fathers ever asked before.</l>
+            <l>Who had they uſed their Princes Grace, had got</l>
+            <l>What no Arms could, and theirs ſhall not</l>
+            <l>What more than Witchcraft did our Bleſſing curſe,</l>
+            <l>And made the Cure make evils worſe;</l>
+            <l>'Tis the third day, throw in the blackeſt Stone,</l>
+            <l>Mark it for curs'd, and let it ſtand alone.</l>
+            <l>But hold! ſpeak gentler things, this fourth was ſeen,</l>
+            <l>The ſofteſt Image of our Beauteous Queen:<note place="margin">The 4th day, The Birth of the Princeſs <hi>Mary.</hi>
+               </note>
+            </l>
+            <l>Bring me a Lamb not uſed to Elder Food,</l>
+            <l>That hath as yet more Milk then Blood,</l>
+            <l>That to the Honour of this early Bride,</l>
+            <l>like <hi>Thetis</hi> joyned to <hi>Peleus</hi> ſide:</l>
+            <l>Some tender thing may fall, though none can be,</l>
+            <l>So white ſo tender as is ſhe,</l>
+            <l>Whilſt we at home our little Turffe debate,</l>
+            <l>She ſpreads our Glories to another State.</l>
+            <l>Next view a Treaſon of the worſt intent,<note place="margin">The 5th day, delivery from the Gunpow<g ref="char:EOLhyphen"/>der Treaſon.</note>
+            </l>
+            <l>Had not our own done more then others meant.</l>
+            <l>Religion is the thing both ſides pretend,</l>
+            <l>But either to a different end;</l>
+            <l>They out of Zeal labour to rear their own,</l>
+            <l>Theſe out of Zeal to pull all down:</l>
+            <l>
+               <pb n="3" facs="tcp:60920:2"/>
+               <!-- PDF PAGE 44 -->
+Bleſs us from theſe as them; But yet compare</l>
+            <l>Thoſe in the Vault, theſe in the Chair,</l>
+            <l>Though the juſt Lot of unſucceſsful ſin,</l>
+            <l>Fix their's without, you'll find worſe heads within.</l>
+            <l>But heark! what Thunder's that,<note place="margin">The 12th day King <hi>Charles</hi> the Firſt, Victory at <hi>Branford.</hi>
+               </note> who thoſe Men</l>
+            <l>Flying towards Heaven, but falling down agen?</l>
+            <l>Whoſe thoſe black Corps caſt on the guilty Shore,</l>
+            <l>'Tis ſin that ſwim'd to it's own Door.</l>
+            <l>Tis the third ſcourge of Rebels, which allow'd</l>
+            <l>Our Army like the Prophets Cloud,</l>
+            <l>Did from an handful rear, until at laſt</l>
+            <l>Their Skie was by it over-eaſt.</l>
+            <l>But as Snakes hifs after they have loſt their Sting,</l>
+            <l>The Traytors called this Treachery in the King.</l>
+            <l>Away and view the Graces and the Hours,<note place="margin">The 16th day The Birth of our Gracious Queen <hi>Mary</hi> King <hi>Charles</hi> the Firſt his Queen.</note>
+            </l>
+            <l>Hovering aloof, and dropping mingled Flowers</l>
+            <l>Upon a Cradle where an Infant lay,</l>
+            <l>More Grace more Goddeſs then were they.</l>
+            <l>Thrice did they deſtine her to paſs the Seas,</l>
+            <l>Love made her thrice to paſs't with caſe:</l>
+            <l>To raiſe a ſtrength of Princes firſt, and then</l>
+            <l>To raiſe another ſtrength of Men;</l>
+            <l>Moſt fruitful Queen, we boaſt both Gifts, and thus</l>
+            <l>The Day was meant to you, the Joy to us.</l>
+            <l>Next to this Mother ſtands a Virgin Queen,<note place="margin">The 17th day The begin<g ref="char:EOLhyphen"/>ning of Queen <hi>Elizabeths</hi> Reign.</note>
+            </l>
+            <l>Courting and Courted whereſoever ſeen.</l>
+            <l>The Peoples Love firſt from her Troubles grew,</l>
+            <l>Her Reign then made that Love her due:</l>
+            <l>That comely Order that did then Adorn,</l>
+            <l>Both Fabricks novv by Factions Torn.</l>
+            <l>
+               <pb n="4" facs="tcp:60920:3"/>
+               <!-- PDF PAGE 45 -->
+That form by her allowed of <hi>Common Prayer,</hi>
+            </l>
+            <l>Is ſtiled now, Vain beating of the Air:</l>
+            <l>How do they Honour, how forſake her Crown,</l>
+            <l>Her times are ſtill cry'd up, but practis'd down.</l>
+            <l>Reach laſt the whiteſt Stone the World yet knew,<note place="margin">The 19th day The Birth of our Gracious King <hi>Charles</hi> the Firſt, that bleſſed Martyr.</note>
+            </l>
+            <l>White as his Soul to whom the day is due;</l>
+            <l>Son of the Peaceful <hi>James,</hi> how is he bleſt</l>
+            <l>With all his Bleſſings, but his reſt;</l>
+            <l>Though undeſerved times call all his Powers,</l>
+            <l>And Troubles ſeaſon other Hours,</l>
+            <l>Let this day Flovv to him as void of care,</l>
+            <l>As Feaſts to Gods and Poets are.</l>
+            <l>The which is juſt, O Heavens! All our ſtrife</l>
+            <l>Hath added to his Glories, add ye to his life;</l>
+            <l>And now ſince his large heart with hers is met,</l>
+            <l>Whoſe day the Stars on purpoſe near his ſet.</l>
+            <l>
+               <hi>November</hi> ſhall to me for ever ſhine,</l>
+            <l>Red in its Ink, Redder in its Wine;</l>
+            <l>And ſince the Third, who almoſt hath made ſhift</l>
+            <l>To abſolve the Treaſon of the Fift,</l>
+            <l>Cannot be well remembred or forgot,</l>
+            <l>By Loyal hearts as if 'twere not,</l>
+            <l>The laſt extream againſt the firſt wee'll bring,</l>
+            <l>That gave us many Tyrants, this a King.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
